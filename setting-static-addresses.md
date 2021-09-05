@@ -12,7 +12,8 @@
 4. Click Internet Protocol Version 4 in the window.
 5. Click Properties.
 6. Set the addresses appropriately and click OK.
-![img](https://i.imgur.com/T3qAbMq.png)
+
+   ![img](https://i.imgur.com/T3qAbMq.png)
 
 ### For Linux:
 
@@ -26,3 +27,4 @@
    1. This is the graphical user interface
 
 ## **NOTE**: AFTER changing an IP address, be sure to stop and start \(disable/re-enable\) the interface otherwise the change may not take affect.
+
