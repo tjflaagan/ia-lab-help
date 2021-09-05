@@ -20,5 +20,5 @@
 
 2. Set `browser.link.open_newwindow.restration` to 0 \(or false\)
 
-   ![img](https://i.imgur.com/lQD3wtB.gif)
+   ![img](https://i.imgur.com/pJOKYjs.gif)
 
