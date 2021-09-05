@@ -6,12 +6,14 @@
 
 ### For Windows:
 
-1. Open Settings
-2. Click change adapter settings
-3. Right click on the interface you are changing and select properties
-4. Click Internet Protocol Version 4 in the window
-5. Click Properties
-6. Set the addresses appropriately and click OK
+1. Open the start menu, and type Run and open the Run dialog box.
+2. Inside the Run dialog box, type `ncpa.cpl` and hit `OK`.
+3. Right click on the interface you are changing and select properties.
+4. Click Internet Protocol Version 4 in the window.
+5. Click Properties.
+6. Set the addresses appropriately and click OK.
+
+   ![img](https://i.imgur.com/T3qAbMq.png)
 
 ### For Linux:
 
