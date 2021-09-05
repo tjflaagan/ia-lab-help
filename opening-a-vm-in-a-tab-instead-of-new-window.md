@@ -13,5 +13,7 @@
 ### Firefox
 
 1. Type about:config in the address bar
-2. Set browser.link.open\_newwindow.restration to 0
-
+If you see a warning that looks like this, click `Accept the Risk and Continue`
+![img](https://i.imgur.com/XebrNal.png)
+2. Set `browser.link.open_newwindow.restration` to 0 (or false)
+![img](https://i.imgur.com/lQD3wtB.gif)

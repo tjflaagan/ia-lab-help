@@ -10,4 +10,3 @@
 
 1. WIN+SHIFT+S
 2. Or Snipping Tool from Start Menu
-
