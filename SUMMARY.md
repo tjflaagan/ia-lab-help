@@ -8,4 +8,5 @@
 * [Opening a VM in a tab instead of new window](opening-a-vm-in-a-tab-instead-of-new-window.md)
 * [Capturing Screenshots](capturing-screenshots.md)
 * [Checking to make sure your Linux VM has an IP address](checking-to-make-sure-your-linux-vm-has-an-ip-address.md)
+* [CSC436 Pre-Req Knowledge](csc436-pre-req-knowledge.md)
 
