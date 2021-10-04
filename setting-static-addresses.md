@@ -17,14 +17,30 @@
 
 ### For Linux:
 
-1. Can be done through NetPlan,
-2. Navigate to /etc/netplan
-3. Modify the default netplan configuration file in that directory with correct YAML syntax
+1. Network Manager \(Graphical User Interface\)
+2. Start by finding the wired settings under Wired Connected
+
+![Wired Settings](.gitbook/assets/image.png)
+
+3. Select the cog in the interface you want to modify
+
+![Settings Cog](.gitbook/assets/image%20%281%29.png)
+
+4. Select the IPv4 tab and modify settings as needed
+
+![IPv4 Settings](.gitbook/assets/image%20%283%29.png)
+
+5. Click Apply and then disable and re-enable the interface
+
+![](.gitbook/assets/image%20%284%29.png)
+
+![](.gitbook/assets/image%20%285%29.png)
 
 #### OR
 
-1. Network Manager
-   1. This is the graphical user interface
+1. 2. Can be done through NetPlan,
+   1. Navigate to /etc/netplan
+   2. Modify the default netplan configuration file in that directory with correct YAML syntax
 
 ## **NOTE**: AFTER changing an IP address, be sure to stop and start \(disable/re-enable\) the interface otherwise the change may not take affect.
 
