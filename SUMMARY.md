@@ -10,4 +10,4 @@
 * [Checking to make sure your Linux VM has an IP address](checking-to-make-sure-your-linux-vm-has-an-ip-address.md)
 * [CSC436 Pre-Req Knowledge](csc436-pre-req-knowledge.md)
 * [Helpful commands](helpful-commands.md)
-
+* [Book Resources](book-resources.md)
