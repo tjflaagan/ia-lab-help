@@ -9,5 +9,7 @@
 * [Capturing Screenshots](capturing-screenshots.md)
 * [Checking to make sure your Linux VM has an IP address](checking-to-make-sure-your-linux-vm-has-an-ip-address.md)
 * [CSC436 Pre-Req Knowledge](csc436-pre-req-knowledge.md)
+* [Additional 436 Tools](additional-436-tools.md)
 * [Helpful commands](helpful-commands.md)
 * [Book Resources](book-resources.md)
+* [Research Ideas](research-ideas.md)
