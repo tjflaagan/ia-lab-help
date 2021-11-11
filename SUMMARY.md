@@ -13,3 +13,4 @@
 * [Helpful commands](helpful-commands.md)
 * [Book Resources](book-resources.md)
 * [Research Ideas](research-ideas.md)
+* [Bonus Videos](bonus-videos.md)
