@@ -6,5 +6,5 @@ The display size of VM’s can be changed from within each individual virtual ma
 
 ## Option 2
 
-With most VM’s the [VMware Remote Console](https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=VMRC1120&productId=974) allow for easier use. This allows you to pop out the VM from the browser.
+With most VM’s the [VMware Remote Console](https://share.ialab.dsu.edu/IA_Lab/VMware-VMRC-12.0.0-17287072.exe) allow for easier use. This allows you to pop out the VM from the browser.
 
