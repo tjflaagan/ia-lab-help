@@ -3,6 +3,7 @@
 ## MacOS
 
 1. Use your browser in a full screen and VM will open in new tab instead of window
+2. Hold "Command" while clicking "Launch Web Console"
 
 ## Windows
 
