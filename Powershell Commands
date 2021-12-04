@@ -1,0 +1,25 @@
+A list of Powershell commands that should help you out with CSC-436 powershell operations.
+If you can't find what you're looking for here feel free to check out the full list of commands at this website here : https://www.pdq.com/powershell/
+
+ac    | Add-Content       | Appends content, such as words or data, to a file.
+cat   | Get-Content       | Gets the contents of a file
+clc   | Clear-Content     | Deletes the contents of an item, but does not delete the item.
+cp    | Copy-Item         | Copies an item from one location to another.
+curl  | Invoke-WebRequest | Gets content from a webpage on the Internet.
+del   | Remove-Item       | Deletes files and folders.
+gci   | Get-ChildItem     | Gets the files and folders in a file system drive.
+gcm   | Get-Command       | Gets all commands
+ghy   | Get-History       | Gets a list of the commands entered during the current session.
+gps   | Get-Process       | Gets the processes that are running on the local computer or a remote computer.
+gsv   | Get-Service       | Gets the services on a local or remote computer.
+icm   | Invoke-Command    | Runs commands on local and remote computers.
+ipsn  | Import-PSSession  | Imports commands from another session into the current session.
+kill  | Stop-Process      | Stops one or more running processes.
+man   | help              | Displays information about Windows PowerShell commands and concepts.
+md    | mkdir             | Creates new item
+oh    | Out-Host          | Sends output to the command line.
+sajb  | Start-Job         | Starts a Windows PowerShell background job.
+saps  | Start-Process     | Starts one or more processes on the local computer.
+sasv  | Start-Service     | Starts one or more stopped services.
+sc    | Set-Content       | Replaces the contents of a file with contents that you specify.
+shcm  | Show-Command      | Creates Windows PowerShell commands in a graphical command window.
