@@ -6,8 +6,8 @@
 2. By default, rockyou.txt is located at /usr/share/wordlists/rockyou.txt
 3. You may have to unzip rockyou.txt.gz. To do so, enter the following input: 
 	`sudo gunzip /usr/share/wordlists/rockyou.txt.gz`
-4. Example of proper John the Ripper Input:
-	`john <password file> --format=RAW-MD5 --wordlist=/usr/share/wordlists/rockyou.txt
+4. Example of proper John the Ripper input:
+	`john <password file> --format=RAW-MD5 --wordlist=/usr/share/wordlists/rockyou.txt`
 	
 ## Useful hash identifiers/crackers
 
