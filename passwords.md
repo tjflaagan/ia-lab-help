@@ -11,8 +11,8 @@
 	
 ## Useful hash identifiers/crackers
 
-	1. [https://hashes.com/en/tools/hash_identifier] (https://hashes.com/en/tools/hash_identifier)
-	2. [https://md5hashing.net/hash_type_checker] (https://md5hashing.net/hash_type_checker)
-	3. [https://crackstation.net/] (https://crackstation.net/)
+	1. https://hashes.com/en/tools/hash_identifier
+	2. https://md5hashing.net/hash_type_checker
+	3. https://crackstation.net/
 
 
