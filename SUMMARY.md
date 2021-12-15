@@ -16,3 +16,4 @@
 * [Bonus Videos](bonus-videos.md)
 * [SSH Guide](ssh-guide.md)
 * [Phishing](phishing.md)
+* [AV Evasion](av-evasion.md)
