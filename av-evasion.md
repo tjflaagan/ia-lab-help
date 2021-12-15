@@ -6,3 +6,5 @@
 
 {% embed url="https://twitter.com/sektor7net/status/1424463770252988427?s=21" %}
 
+{% embed url="https://s3cur3th1ssh1t.github.io/Customizing_C2_Frameworks" %}
+
