@@ -14,3 +14,4 @@
 * [Book Resources](book-resources.md)
 * [Research Ideas](research-ideas.md)
 * [Bonus Videos](bonus-videos.md)
+* [SSH Guide](ssh-guide.md)
